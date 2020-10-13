@@ -1,2 +1,2 @@
-# --Socket-
-UDP、TCP SOCKET通信实现（Python）
+# Socket
+- UDP、TCP SOCKET通信实现（Python）
